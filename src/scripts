@@ -1,11 +1,13 @@
 ***pi.sh***
-
 script to setup networking to RPI Zero with networking and port forwarding
 Assumes pi has addr of 192.168.7.2
 
 ***throttle.sh***
-
 attempts to throttle i915 chipset on CF-19
+
+***scale.sh***
+script to embiggen the screen on my cf-19 slightly Usefull for running windowed apps that require some acreage
+
 
 
 
